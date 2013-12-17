@@ -3,10 +3,6 @@ package com.rm.kismet_hindi;
 
 
 
-import com.ravi_manasa.kismet.R;
-import com.ravi_manasa.kismet.R.id;
-import com.ravi_manasa.kismet.R.layout;
-
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.Context;

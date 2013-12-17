@@ -2,10 +2,6 @@ package com.rm.kismet_hindi;
 
 import java.util.List;
 
-import com.ravi_manasa.kismet.R;
-import com.ravi_manasa.kismet.R.id;
-import com.ravi_manasa.kismet.R.layout;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
