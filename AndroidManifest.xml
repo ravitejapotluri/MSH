@@ -19,14 +19,14 @@
             
  />
          <activity
-            android:name="com.ravi_manasa.kismet.MainActivity2"
+            android:name="com.rm.kismet_hindi.MainActivity2"
             android:label="@string/app_name" 
              android:configChanges="orientation|keyboardHidden"
             
              ></activity>
         <activity
-            android:name="com.ravi_manasa.kismet.MainActivity"
-            android:label="@string/app_name"
+            android:name="comcom.rm.kismet_hindi.MainActivity"
+                        android:label="@string/app_name"
              android:configChanges="orientation|keyboardHidden" 
               android:screenOrientation="portrait"
              >

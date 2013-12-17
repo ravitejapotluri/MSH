@@ -1,4 +1,4 @@
-package com.ravi_manasa.kismet;
+package com.rm.kismet_hindi;
 
 
 import android.app.ActionBar;
@@ -12,6 +12,9 @@ import com.google.android.youtube.player.YouTubePlayer;
 import com.google.android.youtube.player.YouTubePlayer.Provider;
 import com.google.android.youtube.player.YouTubePlayerView;
 import com.google.android.youtube.player.YouTubeStandalonePlayer;
+import com.ravi_manasa.kismet.R;
+import com.ravi_manasa.kismet.R.id;
+import com.ravi_manasa.kismet.R.layout;
 
 public class MainActivity2 extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
 

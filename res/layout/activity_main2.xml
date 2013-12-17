@@ -33,7 +33,7 @@
 		      android:layout_marginTop="120dp"
 		      android:layout_width="fill_parent"
 		      android:layout_height="wrap_content"/>
-		  <com.ravi_manasa.kismet.VideosListView
+		  <com.rm.kismet_hindi.VideosListView
 		        android:id="@+id/videosListView"
 		        android:layout_width="fill_parent"
 		        android:layout_height="142dp"
@@ -48,8 +48,7 @@
 		       android:layout_marginTop="300dp"
 		       android:layout_width="fill_parent"
 		       android:layout_height="wrap_content"/>		
-			<com.ravi_manasa.kismet.VideosListView2
-		        android:id="@+id/relatedVideosListView"
+			<comcom.rm.kismet_hindi.VideosListView2	        android:id="@+id/relatedVideosListView"
 		        android:layout_width="fill_parent"
 		        android:layout_height="700dp"
 		        android:layout_marginTop="340dp"

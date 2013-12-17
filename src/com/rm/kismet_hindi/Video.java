@@ -1,4 +1,4 @@
-package com.ravi_manasa.kismet;
+package com.rm.kismet_hindi;
 
 import java.io.Serializable;
 
