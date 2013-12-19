@@ -1,4 +1,4 @@
-package com.rm.kismet_hindi;
+package com.rm.kismet_tamil;
 
 import android.content.res.Resources;
 import android.content.res.Resources.NotFoundException;

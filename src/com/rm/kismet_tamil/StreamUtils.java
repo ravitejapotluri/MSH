@@ -1,4 +1,4 @@
-package com.rm.kismet_hindi;
+package com.rm.kismet_tamil;
 
 import java.io.BufferedReader;
 import java.io.IOException;

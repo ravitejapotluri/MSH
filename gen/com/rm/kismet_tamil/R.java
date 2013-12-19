@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.rm.kismet_hindi;
+package com.rm.kismet_tamil;
 
 public final class R {
     public static final class animator {

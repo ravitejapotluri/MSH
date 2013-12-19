@@ -1,4 +1,4 @@
-package com.rm.kismet_hindi;
+package com.rm.kismet_tamil;
 
 import java.util.List;
 
@@ -17,7 +17,7 @@ import android.widget.TextView;
  * you may want to look at better using your view resources: http://developer.android.com/resources/samples/ApiDemos/src/com/example/android/apis/view/List14.html
  * @author ravi_manasa
  */
-public class VideosAdapter extends BaseAdapter {
+public class VideosAdapter2 extends BaseAdapter {
 	// The list of videos to display
 	List<Video> videos;
 	// An inflator to use when creating rows
@@ -27,7 +27,7 @@ public class VideosAdapter extends BaseAdapter {
 	 * @param context this is the context that the list will be shown in - used to create new list rows
 	 * @param videos this is a list of videos to display
 	 */
-	public VideosAdapter(Context context, List<Video> videos) {
+	public VideosAdapter2(Context context, List<Video> videos) {
 		this.videos = videos;
 		this.mInflater = LayoutInflater.from(context);
 	}
@@ -53,13 +53,13 @@ public class VideosAdapter extends BaseAdapter {
 		if(convertView == null){
 			// This is the layout we are using for each row in our list
 			// anything you declare in this layout can then be referenced below
-			convertView = mInflater.inflate(R.layout.list_item_user_video, null);
+			convertView = mInflater.inflate(R.layout.list_item_user_video2, null);
 		}
 		// We are using a custom imageview so that we can load images using urls
 		// For further explanation see: http://blog.blundell-apps.com/imageview-with-loading-spinner/
-		UrlImageView thumb = (UrlImageView) convertView.findViewById(R.id.userVideoThumbImageView);
+		UrlImageView2 thumb = (UrlImageView2) convertView.findViewById(R.id.userVideoThumbImageView2);
 		
-		TextView title = (TextView) convertView.findViewById(R.id.userVideoTitleTextView); 
+		TextView title = (TextView) convertView.findViewById(R.id.userVideoTitleTextView2); 
 		// Get a single video from our list
 		Video video = videos.get(position);
 		// Set the image for the list item

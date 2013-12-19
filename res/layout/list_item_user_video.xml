@@ -5,7 +5,7 @@
     android:gravity="center_vertical"
     android:orientation="horizontal" >
 
-    <com.rm.kismet_hindi.UrlImageView
+    <com.rm.kismet_tamil.UrlImageView
         android:id="@+id/userVideoThumbImageView"
         android:layout_width="162dp"
         android:layout_height="140dp"
