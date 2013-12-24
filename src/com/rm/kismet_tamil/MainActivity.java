@@ -103,7 +103,9 @@ public class MainActivity extends Activity
     	// We pass in a handler that will be called when the task has finished
     	// We also pass in the name of the user we are searching YouTube for
     	
-    	String[] users = {"tamilmovies", "WAMIndiaTamil", "rajshritamil", "tamilbiscoot", "RajVideoVisionTamil"/*"sribalajimovies", "shalimarcinema", "rajshritelugu", "thesantoshvideos",  
+    	String[] users = {"tamilmovies", "tamilpeak", "WAMIndiaTamil", "rajshritamil", "tamilbiscoot", "RajVideoVisionTamil", "CinemaJunction",
+    			"tamilmovies", "rajshritamil", "tamilpeak","CinemaJunction"
+    			/*"sribalajimovies", "shalimarcinema", "rajshritelugu", "thesantoshvideos",  
     			"sribalajimovies", 
     			"geethaarts","idreammovies", "sribalajimovies", "thesantoshvideos",  
     			"geethaarts", "shemarootelugu", "adityacinema", "sribalajimovies",  
